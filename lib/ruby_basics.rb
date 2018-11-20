@@ -13,7 +13,6 @@ end
 
 def argue (phrase = "I'm right and you are wrong!")
   
-  
   return phrase
   
 end

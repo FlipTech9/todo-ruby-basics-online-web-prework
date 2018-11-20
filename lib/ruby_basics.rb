@@ -1,6 +1,6 @@
 def division(num1, num2)
   
-  num1 = 12
+  num1 = 18
   num2 = 
 end
 

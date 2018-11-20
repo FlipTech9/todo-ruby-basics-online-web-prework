@@ -11,7 +11,7 @@ def assign_variable(value)
   value = "Bob"
 end
 
-def argue
+def argue (phrase)
   
 end
 
